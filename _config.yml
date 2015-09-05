@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Anshzinc
 tagline:          ''
-description:      'Developer Intern at <a href="http://www.vatsanagroup.com" target="_blank">Vatsana</a>. Interests in programming and gaming.'
+description:      ''
 url:              http://anshole.github.io
 baseurl:          /
 
