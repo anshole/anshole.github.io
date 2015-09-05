@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Anshzinc
 tagline:          ''
-description:      '<img src="https://avatars2.githubusercontent.com/u/5483556?v=3&s=460"></img> Anshzinc'
+description:      '<img src="https://avatars2.githubusercontent.com/u/5483556?v=3&s=460"></img>'
 url:              http://anshole.github.io
 baseurl:          /
 
